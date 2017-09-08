@@ -12,4 +12,6 @@ Use your favorite text editor ([Sublime Text](https://www.sublimetext.com/), [At
 
 ### 5. What is a pull?
 
+### 6. What is a pull request?
+
 ### 7. What is a branch?
