@@ -1,4 +1,4 @@
-# Labs
+# Labs (in the test branch)
 ## Introduction to Multimedia (MMP100)
 ## Borough of Manhattan Community College (BMCC)
 ## Fall 2017
