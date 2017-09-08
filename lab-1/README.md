@@ -7,11 +7,16 @@ A repository is a folder under Git control.
 ### 2. What does it mean to “fork” a repo?
 When you fork a repository, you are taking someones development and extending on it.
 ### 3. What does it mean to “clone” a repo?
+When you clone a repository you are making a copy of that repository.
 
 ### 4. What is a push?
+Push means upload.
 
 ### 5. What is a pull?
+Pull means download.
 
 ### 6. What is a pull request?
+A pull request can let the developers and others know about the changes you made in your repository
 
 ### 7. What is a branch?
+A branch is an extension you can make from master, which lets you add on your own ideas without damaging the original copy- master.
