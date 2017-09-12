@@ -26,6 +26,8 @@ Technically, commits in your local repo are copied without a merge. Think of thi
 
 ### 5. What is a pull?
 
+Technically, a pull is a fetch followed by a merge. Think of this as simply the ability to read, or download, a repo?
+
 ### 6. What is a pull request?
 
 ### 7. What is a branch?
