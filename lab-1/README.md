@@ -22,6 +22,8 @@ If you clone a public repo that isn’t your own or in which you’re *not* a co
 
 ### 4. What is a push?
 
+Technically, commits in your local repo are copied without a merge. Think of this as simply the ability to write, or upload, your changes to a repo?
+
 ### 5. What is a pull?
 
 ### 6. What is a pull request?
