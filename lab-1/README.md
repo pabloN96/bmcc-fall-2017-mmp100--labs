@@ -16,6 +16,10 @@ And finally, a user might fork a repo as a starting point for their own project.
 
 ### 3. What does it mean to “clone” a repo?
 
+A clone simply means a copy of a repo. If you clone a repo of your own, or one in which you’re a collaborator, then you can read (pull) and write (push) to it.
+
+If you clone a public repo that isn’t your own or in which you’re *not* a collaborator, then you may only read (pull) from it?
+
 ### 4. What is a push?
 
 ### 5. What is a pull?
