@@ -30,4 +30,6 @@ Technically, a pull is a fetch followed by a merge. Think of this as simply the 
 
 ### 6. What is a pull request?
 
+I’ll simply let Atlassian [explain it](https://www.atlassian.com/git/tutorials/making-a-pull-request).
+
 ### 7. What is a branch?
