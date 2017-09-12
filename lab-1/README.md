@@ -8,6 +8,12 @@ A repo is a folder that is under Git control. It allows you to save versions of 
 
 ### 2. What does it mean to “fork” a repo?
 
+A fork is a copy of a repo in which a user can make changes. It’s created (usually) for one of three reasons. First, a fork allows users to experiment with a project without affecting the original project.
+
+Second, a fork allows users to improve the original repo, culminating in a pull request to the original project.
+
+And finally, a user might fork a repo as a starting point for their own project.
+
 ### 3. What does it mean to “clone” a repo?
 
 ### 4. What is a push?
