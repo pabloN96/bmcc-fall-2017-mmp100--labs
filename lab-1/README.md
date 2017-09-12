@@ -4,14 +4,26 @@ Use your favorite text editor ([Sublime Text](https://www.sublimetext.com/), [At
 
 ### 1. What is a repository (or repo)?
 
+A
+
 ### 2. What does it mean to “fork” a repo?
+
+B
 
 ### 3. What does it mean to “clone” a repo?
 
+C
+
 ### 4. What is a push?
+
+D
 
 ### 5. What is a pull?
 
+E
+
 ### 6. What is a pull request?
+
+F
 
 ### 7. What is a branch?
