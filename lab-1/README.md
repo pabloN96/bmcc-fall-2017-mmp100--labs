@@ -4,6 +4,8 @@ Use your favorite text editor ([Sublime Text](https://www.sublimetext.com/), [At
 
 ### 1. What is a repository (or repo)?
 
+A repo is a folder that is under Git control. It allows you to save versions of your project so you can retrieve snapshots of its development when needed.
+
 ### 2. What does it mean to “fork” a repo?
 
 ### 3. What does it mean to “clone” a repo?
