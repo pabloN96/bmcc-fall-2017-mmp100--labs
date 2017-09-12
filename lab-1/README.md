@@ -6,7 +6,21 @@ Use your favorite text editor ([Sublime Text](https://www.sublimetext.com/), [At
 
 A repo is a folder that is under Git control. It allows you to save versions of your project so you can retrieve snapshots of its development when needed.
 
-### 2. What does it mean to “fork” a repo?
+### 2. What is a push?
+
+Technically, commits in your local repo are copied without a merge. Think of this as simply the ability to write, or upload, your changes to a repo?
+
+### 3. What is a pull?
+
+Technically, a pull is a fetch followed by a merge. Think of this as simply the ability to read, or download, a repo?
+
+### 4. What does it mean to “clone” a repo?
+
+A clone simply means a copy of a repo. If you clone a repo of your own, or one in which you’re a collaborator, then you can read (pull) and write (push) to it.
+
+If you clone a public repo that isn’t your own or in which you’re *not* a collaborator, then you may only read (pull) from it?
+
+### 5. What does it mean to “fork” a repo?
 
 A fork is a copy of a repo in which a user can make changes. It’s created (usually) for one of three reasons. First, a fork allows users to experiment with a project without affecting the original project.
 
@@ -14,23 +28,9 @@ Second, a fork allows users to improve the original repo, culminating in a pull 
 
 And finally, a user might fork a repo as a starting point for their own project.
 
-### 3. What does it mean to “clone” a repo?
-
-A clone simply means a copy of a repo. If you clone a repo of your own, or one in which you’re a collaborator, then you can read (pull) and write (push) to it.
-
-If you clone a public repo that isn’t your own or in which you’re *not* a collaborator, then you may only read (pull) from it?
-
-### 4. What is a push?
-
-Technically, commits in your local repo are copied without a merge. Think of this as simply the ability to write, or upload, your changes to a repo?
-
-### 5. What is a pull?
-
-Technically, a pull is a fetch followed by a merge. Think of this as simply the ability to read, or download, a repo?
-
 ### 6. What is a pull request?
 
-I’ll simply let Atlassian [explain it](https://www.atlassian.com/git/tutorials/making-a-pull-request).
+I’ll let Atlassian [explain it](https://www.atlassian.com/git/tutorials/making-a-pull-request).
 
 ### 7. What is a branch?
 
